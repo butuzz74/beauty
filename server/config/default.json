@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "mongoUri": "mongodb+srv://butuzz74:Kyocera741419842022@cluster0.zzk570i.mongodb.net/beautyStudio?retryWrites=true&w=majority",
+    "accessSecret": "accessSecret for my project",
+    "refreshSecret": "refreshSecret for my project",
+    "api_key": "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"    
+}
